@@ -1,0 +1,5 @@
+anvil-uplink
+numpy
+pillow
+tensorflow
+keras
